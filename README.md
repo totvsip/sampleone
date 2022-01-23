@@ -2,5 +2,5 @@
 
 Start TOTVS IP
 
-https://totvsip.github.io/starttotvsip/
+https://totvsip.github.io/sampleone/
 
